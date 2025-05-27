@@ -1,6 +1,5 @@
 import vertexai
 from vertexai.preview.vision_models import ImageGenerationModel
-import vertexai.preview.vision_models
 
 def generate_image(
         project_id: str,
